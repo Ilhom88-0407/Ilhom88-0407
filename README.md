@@ -31,7 +31,7 @@
 
 | | Yo'nalish | Qisqacha |
 |---|---|---|
-| ☁️ | **Bulut platformasi** | H3C CloudOS 7.0 OpenAPI integratsiyasi — 500+ API, imzolovchi Python mijoz, o'zbekcha konsol qo'llanmasi |
+| ☁️ | **Bulut platformasi** |  Cloud integratsiyasi — 500+ API, imzolovchi Python mijoz, o'zbekcha konsol qo'llanmasi |
 | 🖥️ | **Bare-Metal-as-a-Service** | Redfish / IPMI orqali jismoniy serverlarni avtomatik taqdim etish |
 | 📈 | **NetFlow Analyzer** | Router → FastNetMon → InfluxDB → FastAPI + React: trafik tahlili, GeoIP, abuse audit |
 | 🛡️ | **NgWAF** | Nginx + Coraza (Go) asosidagi WAF, reverse-proxy va boshqaruv paneli |
