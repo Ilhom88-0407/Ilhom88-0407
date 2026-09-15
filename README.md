@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:0e4d64,100:14b8a6&height=190&section=header&text=Ilhom%20Islomov&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Network%20%26%20Cloud%20Infrastructure%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Ilhom Islomov — Network & Cloud Infrastructure Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:0e4d64,100:14b8a6&height=190&section=header&text=Ilhom%20Islomov&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Network%20and%20Cloud%20Infrastructure%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Ilhom Islomov — Network & Cloud Infrastructure Engineer"/>
 
 <a href="https://github.com/Ilhom88-0407">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Ma'lumotlar+markazi+tarmoqlari+%C2%B7+H3C+Comware;NetFlow+tahlili+va+DDoS+himoyasi;Kubernetes+%C2%B7+Ansible+%C2%B7+Python+%C2%B7+Go;Bilimni+o'zbek+tilida+ulashaman+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG"/>
